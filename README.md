@@ -1,2 +1,2 @@
-# linux_tools
-some linux tools developed by Python
+# linux_scripts
+some linux scripts developed by Python/Shell
